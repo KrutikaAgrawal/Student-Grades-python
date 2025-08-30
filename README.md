@@ -10,13 +10,11 @@ This is a simple Python-based command-line application to manage student data, i
   - Grade assignment based on average
 - Display a well-formatted table of all students and their performance.
 - Identify the highest scorer per subject.
- 📊 Grade Criteria-
-| Average Marks | Grade |
-|---------------|--------|
-| 90 and above  | A+     |
-| 80 - 89       | A      |
-| 70 - 79       | B      |
-| 60 - 69       | C      |
-| 50 - 59       | D      |
-| Below 50      | F      |
+ 📊 Grade Criteria- 
+ 90 and above  A+,    
+ 80 - 89        A,    
+ 70 - 79        B,
+ 60 - 69        C,     
+ 50 - 59        D,    
+ Below 50       F      
 
